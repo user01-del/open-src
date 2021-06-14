@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-  <title>정치</title>
+  <title>액티비티 매칭</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, inital-scale=1.0">
   <style media="screen">
@@ -40,21 +40,21 @@
     ">
 
 <ol>
-  <li><a href="01.html">대북지원</a></li>
-  <li><a href="02.html">발전소</a></li>
-  <li><a href="03.html">국방</a></li>
-  <li><a href="04.html">교육복지</a></li>
-  <li><a href="05.html">노동복지</a></li>
-  <li><a href="06.html">환경오염</a></li>
-  <li><a href="07.html">범죄</a></li>
-  <li><a href="08.html">안정감</a></li>
+  <li><a href="01.html">회원가입</a></li>
+  <li><a href="02.html">로그인</a></li>
+  <li><a href="03.html">개인정보수정</a></li>
+  <li><a href="04.html">FAQ</a></li>
+  <li><a href="05.html">1:1문의</a></li>
+  <li><a href="06.html">신고</a></li>
+  <li><a href="07.html">개인팀매칭</a></li>
+  <li><a href="08.html">단체채팅방</a></li>
 </ol>
 
-<h3>정치</h3>
+<h3>액티비티 </h3>
 
 <p>
-  정치란 무엇인가?<br>
-  나라의 국민들 부터 세계의 국민들까지 모두의 행복을 찾아주는 것이다
+  액티비티 매칭 이란 ?<br>
+  
 </p>
 
 </body>
