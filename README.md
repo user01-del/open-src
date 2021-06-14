@@ -9,7 +9,7 @@
   </style>
 </head>
 <body>
-  <h1><a href="server.html">server</a></h1>
+  <h1><a href="server.html">메뉴</a></h1>
 
   <input id = "night_day" type="button" value="night"
     onclick="
